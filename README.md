@@ -34,14 +34,23 @@
       <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img height="64px" width="64px" src="https://www.svgrepo.com/show/452234/java.svg">
+    </td>
+    <td align="center">
+      <img height="64px" width="64px" src="https://www.svgrepo.com/show/354380/spring-icon.svg">
+    </td>
+  </tr>
 </table>
 
 # Currently working on
 
-- 💻 [Hexagonal Architecture App](https://github.com/MolanoSantiago/hexagonal-app)
+- 💻 [Boo Platform Booking](https://github.com/MolanoSantiago/boo__app_backend)
 
 # My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MolanoSantiago&show_icons=true&hide_border=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MolanoSantiago&show_icons=true&locale=en&layout=compact" alt="MolanoSantiago" /></p>
 
 ⭐️ From [MolanoSantiago](https://github.com/MolanoSantiago)
