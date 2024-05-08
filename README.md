@@ -1,6 +1,6 @@
 # Hello, I'm Santiago!
 
-- 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 👨🏽‍💻
+- 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 from Medellín, Colombia 👨🏽‍💻
 - 𝖧𝖾𝗅𝗉 𝗆𝖾 𝗀𝗂𝗏𝗂𝗇𝗀 ⭐ 𝗆𝗒 𝗋𝖾𝗉𝗈𝗌
 
 ## What I Use
@@ -52,5 +52,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MolanoSantiago&show_icons=true&hide_border=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MolanoSantiago&show_icons=true&locale=en&layout=compact" alt="MolanoSantiago" /></p>
-
-⭐️ From [MolanoSantiago](https://github.com/MolanoSantiago)
