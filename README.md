@@ -1,54 +1,40 @@
-# Hello, I'm Santiago!
+# Hello! I'm Santiago Molano 👋
 
-- 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 from Medellín, Colombia 👨🏽‍💻
-- 𝖧𝖾𝗅𝗉 𝗆𝖾 𝗀𝗂𝗏𝗂𝗇𝗀 ⭐ 𝗆𝗒 𝗋𝖾𝗉𝗈𝗌
+Fullstack developer with more than 2 years of experience in the technology sector, with specialization in banking and finance. Proficient in the creation of software, from the planning stage to the final delivery. Skilled in communication and teamwork, as well as the ability to lead projects and technology teams.
 
-## What I Use
+## 🚀 Skills
 
-<table>
-  <tr>
-    <th align="center" style="background-color: #FF5555; color: #FFFFFF;">Programming Language</th>
-    <th align="center" style="background-color: #FF5555; color: #FFFFFF;">Framework/Library</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-    </td>
-    <td align="center">
-      <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-    </td>
-    <td align="center">
-      <img height="64px" width="64px" src="https://www.svgrepo.com/show/330413/fastapi.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/php.svg">
-    </td>
-    <td align="center">
-      <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img height="64px" width="64px" src="https://www.svgrepo.com/show/452234/java.svg">
-    </td>
-    <td align="center">
-      <img height="64px" width="64px" src="https://www.svgrepo.com/show/354380/spring-icon.svg">
-    </td>
-  </tr>
-</table>
+- **Programming Languages**: PHP, Python, JavaScript
+- **Frameworks and Libraries**: Laravel, FastAPI, React, React Native
+- **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
-# Currently working on
+## 🛠️ Featured Projects
 
-- 💻 [Boo Platform Booking](https://github.com/MolanoSantiago/boo__app_backend)
+### Mentorium
+Mobile application designed for students, helping them to study subjects and prepare them for important academic exams.
+- **Technologies used**: React Native, Laravel
 
-# My Stats
+[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=MolanoSantiago&repo=mentorium__app_frontend&theme=dracula)](https://github.com/MolanoSantiago/mentorium__app_frontend)
+[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=MolanoSantiago&repo=mentorium__app_backend&theme=dracula)](https://github.com/MolanoSantiago/mentorium__app_backend)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MolanoSantiago&show_icons=true&hide_border=true)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MolanoSantiago&show_icons=true&locale=en&layout=compact" alt="MolanoSantiago" /></p>
+## 🌱 Currently Learning
+
+- **Java**: Trying to fully master the backend in another programming language.
+
+## 💬 Contact Me
+
+- **Portfolio**: [molxno.vercel.app](https://molxno.vercel.app/)
+- **LinkedIn**: [Santiago's LinkedIn](https://www.linkedin.com/in/molanosantiago/)
+- **Twitter**: [Santiago's Twitter](https://twitter.com/molxno)
+
+## 📈 GitHub Stats
+
+[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MolanoSantiago&show_icons=true&theme=dracula)](https://github.com/MolanoSantiago/github-readme-stats)
+
+## 🤝 Contributions
+
+Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from fellow developers.
+
+---
+
+Thank you for visiting my GitHub profile! 😊
