@@ -31,6 +31,10 @@ Mobile application designed for students, helping them to study subjects and pre
 
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MolanoSantiago&show_icons=true&theme=dracula)](https://github.com/MolanoSantiago/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MolanoSantiago&theme=dracula)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MolanoSantiago&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🤝 Contributions
 
 Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from fellow developers.
