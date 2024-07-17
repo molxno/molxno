@@ -33,7 +33,7 @@ Mobile application designed for students, helping them to study subjects and pre
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MolanoSantiago&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MolanoSantiago&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MolanoSantiago&theme=dracula)](https://github.com/MolanoSantiago/github-readme-stats)
 
 ## 🤝 Contributions
 
