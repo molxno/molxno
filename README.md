@@ -19,7 +19,7 @@ Mobile application designed for students, helping them to study subjects and pre
 
 ## 🌱 Currently Learning
 
-- **Java**: Trying to fully master the backend in another programming language.
+- **Typescript**: I want to deepen React Native mobile development in the best way.
 
 ## 💬 Contact Me
 
