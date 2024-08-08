@@ -14,8 +14,8 @@ Fullstack developer with more than 2 years of experience in the technology secto
 Mobile application designed for students, helping them to study subjects and prepare them for important academic exams.
 - **Technologies used**: React Native, Laravel
 
-[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_frontend&theme=blueberry)](https://github.com/molxno/mentorium__app_frontend)
-[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_backend&theme=blueberry)](https://github.com/molxno/mentorium__app_backend)
+[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_frontend&theme=react)](https://github.com/molxno/mentorium__app_frontend)
+[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_backend&theme=react)](https://github.com/molxno/mentorium__app_backend)
 
 ## 🌱 Currently Learning
 
@@ -29,11 +29,11 @@ Mobile application designed for students, helping them to study subjects and pre
 
 ## 📈 GitHub Stats
 
-[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=molxno&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=molxno&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=blueberry&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contributions
 
