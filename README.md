@@ -14,8 +14,8 @@ Fullstack developer with more than 2 years of experience in the technology secto
 Mobile application designed for students, helping them to study subjects and prepare them for important academic exams.
 - **Technologies used**: React Native, Laravel
 
-[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_frontend&theme=blueberry)](https://github.com/anuraghazra/mentorium__app_frontend)
-[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_backend&theme=blueberry)](https://github.com/anuraghazra/mentorium__app_backend)
+[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_frontend&theme=blueberry)](https://github.com/molxno/mentorium__app_frontend)
+[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=molxno&repo=mentorium__app_backend&theme=blueberry)](https://github.com/molxno/mentorium__app_backend)
 
 ## 🌱 Currently Learning
 
