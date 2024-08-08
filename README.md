@@ -33,7 +33,7 @@ Mobile application designed for students, helping them to study subjects and pre
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=blueberry&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=pie&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contributions
 
