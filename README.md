@@ -17,7 +17,7 @@ Fullstack developer with more than 2 years of experience in the technology secto
 
 ## 💬 Contact Me
 
-- **Portfolio**: [molxno.vercel.app](https://molxno.dev/)
+- **Portfolio**: [molxno.dev](https://molxno.dev/)
 - **LinkedIn**: [Santiago's LinkedIn](https://www.linkedin.com/in/molanosantiago/)
 - **Twitter**: [Santiago's Twitter](https://twitter.com/molxno)
 
