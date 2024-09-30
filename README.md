@@ -4,8 +4,8 @@ Fullstack developer with more than 2 years of experience in the technology secto
 
 ## 🚀 Skills
 
-- **Programming Languages**: PHP, Python, JavaScript
-- **Frameworks and Libraries**: Laravel, FastAPI, React, React Native
+- **Programming Languages**: PHP, Python, JavaScript, Java
+- **Frameworks and Libraries**: Laravel, Django, FastAPI, React, Expo
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
