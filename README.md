@@ -9,7 +9,9 @@ Fullstack developer with more than 2 years of experience in the technology secto
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
-
+### WALL-E 
+It is an application to manage your expenses, investments and loans. Wall-e is your digital wallet.
+[walle](https://github.com/molxno/walle)
 
 ## 🌱 Currently Learning
 
@@ -23,11 +25,11 @@ Fullstack developer with more than 2 years of experience in the technology secto
 
 ## 📈 GitHub Stats
 
-[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=molxno&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=molxno&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=dracula&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=compact&theme=react&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contributions
 
