@@ -11,7 +11,7 @@ Fullstack developer with more than 2 years of experience in the technology secto
 ## 🛠️ Featured Projects
 ### WALL-E 
 It is an application to manage your expenses, investments and loans. Wall-e is your digital wallet.
-[GitHub 's Repository](https://github.com/molxno/walle)
+[Repository](https://github.com/molxno/walle)
 
 ## 🌱 Currently Learning
 
