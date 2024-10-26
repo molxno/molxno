@@ -33,7 +33,7 @@ It is an application to manage your expenses, investments and loans. Wall-e is y
 
 ## 🤝 Contributions
 
-Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from fellow developers.
+Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from fellow developers 💪🏼
 
 ---
 
