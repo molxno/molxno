@@ -1,6 +1,6 @@
 # Hello! I'm Santiago Molano 👋
 
-Fullstack developer with more than 2 years of experience in the technology sector, with specialization in banking and finance. Proficient in the creation of software, from the planning stage to the final delivery. Skilled in communication and teamwork, as well as the ability to lead projects and technology teams.
+Fullstack developer with more than 3 years of experience in the technology sector, with specialization in banking and finance. Proficient in the creation of software, from the planning stage to the final delivery. Skilled in communication and teamwork, as well as the ability to lead projects and technology teams.
 
 ## 🚀 Skills
 
