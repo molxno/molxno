@@ -9,9 +9,9 @@ Fullstack developer with more than 3 years of experience in the technology secto
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
-### WALL-E 
-It is an application to manage your expenses, investments and loans. Wall-e is your digital wallet.
-[Repository](https://github.com/molxno/walle)
+### EVA 
+It isn't an simple application.
+[Repository](https://github.com/molxno/eva)
 
 ## 🌱 Currently Learning
 
