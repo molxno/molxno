@@ -15,7 +15,7 @@ It isn't an simple application.
 
 ## 🌱 Currently Learning
 
-- **Django**: Looking for alternatives to Python frameworks.
+- **Java**: I would like to learn Spring Boot to use in backend development.
 
 ## 💬 Contact Me
 
