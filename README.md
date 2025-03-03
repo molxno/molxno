@@ -10,8 +10,9 @@ Fullstack developer with more than 3 years of experience in the technology secto
 
 ## 🛠️ Featured Projects
 ### Cost control 
-Mobile application to manage cost control
-[Repository]([https://github.com/molxno/eva](https://github.com/molxno/cost-control))
+Mobile application to manage cost control.
+
+[Repository](https://github.com/molxno/cost-control)
 
 ## 🌱 Currently Learning
 
