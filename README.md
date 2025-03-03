@@ -9,9 +9,9 @@ Fullstack developer with more than 3 years of experience in the technology secto
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
-### EVA 
-It isn't an simple application.
-[Repository](https://github.com/molxno/eva)
+### Cost control 
+Mobile application to manage cost control
+[Repository]([https://github.com/molxno/eva](https://github.com/molxno/cost-control))
 
 ## 🌱 Currently Learning
 
