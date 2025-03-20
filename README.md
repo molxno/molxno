@@ -28,8 +28,6 @@ Mobile application to manage cost control.
 
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=molxno&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=molxno&theme=dracula&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contributions
