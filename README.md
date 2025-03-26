@@ -9,10 +9,10 @@ Fullstack developer with more than 3 years of experience in the technology secto
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
-### Cost control 
-Mobile application to manage cost control.
+### Boo
+Mobile application to manage bookings and payments.
 
-[Repository](https://github.com/molxno/cost-control)
+[Repository](https://github.com/molxno/boo__app_mobile)
 
 ## 🌱 Currently Learning
 
