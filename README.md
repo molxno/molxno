@@ -9,10 +9,10 @@ Fullstack developer with more than 3 years of experience in the technology secto
 - **Tools and Technologies**: Git, Docker, AWS, Firebase, MySQL, PostgreSQL, SQL Server
 
 ## 🛠️ Featured Projects
-### Boo
-Mobile application to manage bookings and payments.
+### Taste
+Web application to manage orders in real time.
 
-[Repository](https://github.com/molxno/boo__app_mobile)
+[Repository](https://github.com/molxno/taste-app)
 
 ## 🌱 Currently Learning
 
