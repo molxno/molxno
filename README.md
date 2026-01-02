@@ -25,18 +25,6 @@ I work comfortably across the full development lifecycle: **planning, developmen
 
 ---
 
-## 🛠️ Featured Projects
-
-### 🍽️ Taste
-Real-time web application for order management, focused on performance and scalability.
-
-🔗 **Repository:**  
-https://github.com/molxno/taste-app
-
-More projects and case studies are available on my portfolio.
-
----
-
 ## 🌱 Currently Learning
 - **Java & Spring Boot** — strengthening backend architecture and enterprise patterns.
 
